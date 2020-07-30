@@ -1,0 +1,11 @@
+{
+	"name": "Johnny Appleseed",
+	"username": "username",
+	"password": "password",
+	"email": "foo@bar.com",
+	"address": "123 Some St.\nAnytown, ST 12345",
+	"account": {
+		"number": 1234567890,
+		"name": "Credit Card"
+	}
+}
